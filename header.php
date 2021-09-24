@@ -9,9 +9,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/styles/myTheme.css">
+    <link rel="stylesheet" href="styles/myTheme.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="stylesheet" href="/styles/addedStyles.css">
+    <link rel="stylesheet" href="styles/addedStyles.css">
 
     <title>Tui Header</title>
 </head>
@@ -22,9 +22,9 @@
     <!-- Header -->
     <header class="w-100">
         <div class="container-fluid bg-primary top-0 h-auto" id="header">
-            <a href="/includes/" class="btn">
+            <a href="index.php" class="btn">
                 <div class="row text-center">
-                    <img src="/images/WebLogo.png" alt="Tui Logo" class="h-100 p-4 mx-auto">
+                    <img src="images/WebLogo.png" alt="Tui Logo" class="h-100 p-4 mx-auto">
             </a>
         </div>
         </div>
@@ -54,8 +54,8 @@
 
     <!-- Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-    <script src="/JS/app.js"></script>
-    <script src="/JS/ui.js"></script>
+    <script src="JS/app.js"></script>
+    <script src="JS/ui.js"></script>
 
 
 </body>
