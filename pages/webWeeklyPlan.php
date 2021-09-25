@@ -1,5 +1,5 @@
 <?php include 'connection.php' ?>
-<?php include 'header.php' ?>
+<?php include 'pagesHeader.php' ?>
 
 <!-- Page Title -->
 <div class="container-sm text-dark px-3 p-4 truckList">
@@ -279,4 +279,4 @@
         </div>
     </div>
 
-<?php include '../footer.php' ?>
+<?php include 'footer.php' ?>
