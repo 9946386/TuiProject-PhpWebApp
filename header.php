@@ -35,16 +35,16 @@
                 <div class="collapse navbar-collapse " id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item mx-5 ">
-                            <a class="nav-link active text-light" aria-current="page" href="/pages/webDailyPlan.php">Daily Plan</a>
+                            <a class="nav-link active text-light" aria-current="page" href="index.php">Daily Plan</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="/pages/webWeeklyPlan.php">Weekly Plan</a>
+                            <a class="nav-link text-light" href="webWeeklyPlan.php">Weekly Plan</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="/pages/webArchives.php">Archives</a>
+                            <a class="nav-link text-light" href="webArchives.php">Archives</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="/pages/webReports.php">Reports</a>
+                            <a class="nav-link text-light" href="webReports.php">Reports</a>
                         </li>
                     </ul>
                 </div>
