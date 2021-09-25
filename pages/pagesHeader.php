@@ -22,7 +22,7 @@
     <!-- Header -->
     <header class="w-100">
         <div class="container-fluid bg-primary top-0 h-auto" id="header">
-            <a href="index.php" class="btn">
+            <a href="/index.php" class="btn">
                 <div class="row text-center">
                     <img src="/images/WebLogo.png" alt="Tui Logo" class="h-100 p-4 mx-auto">
             </a>
@@ -35,16 +35,16 @@
                 <div class="collapse navbar-collapse " id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item mx-5 ">
-                            <a class="nav-link active text-light" aria-current="page" href="index.php">Daily Plan</a>
+                            <a class="nav-link active text-light" aria-current="page" href="/index.php">Daily Plan</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="webWeeklyPlan.php">Weekly Plan</a>
+                            <a class="nav-link text-light" href="/pages/webWeeklyPlan.php">Weekly Plan</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="webArchives.php">Archives</a>
+                            <a class="nav-link text-light" href="/pages/webArchives.php">Archives</a>
                         </li>
                         <li class="nav-item mx-5">
-                            <a class="nav-link text-light" href="webReports.php">Reports</a>
+                            <a class="nav-link text-light" href="/pages/webReports.php">Reports</a>
                         </li>
                     </ul>
                 </div>
