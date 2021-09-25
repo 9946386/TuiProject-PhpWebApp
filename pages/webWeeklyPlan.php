@@ -1,5 +1,5 @@
 <?php include '/connection.php' ?>
-<?php include '/pages/pagesHeader.php' ?>
+<?php include 'pagesHeader.php' ?>
 
 <!-- Page Title -->
 <div class="container-sm text-dark px-3 p-4 truckList">
@@ -34,7 +34,7 @@
                                 <div class="col-1">                            
                                     <a href="/pages/webAddJob.php" class="btn btn-primary btn-sm text-light rounded-pill">Add Job</a>
                                 </div>
-                            </div>
+                            </div>l
                             <div class="row">
                                 <div class="col pt-3">
                                     <table class="table table-bordered table-responsive ">
